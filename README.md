@@ -15,9 +15,9 @@ Some of the 3D models for the Escaperoom are based on 3D models from individual 
 
 Please mention the following publications, when referencing to GAMEchanics.
 
-[C. Völlmecke and A. Dönitz, “Making Mechanics Tangible Part of this Work was Funded by Klaus Tschira Foundation,” IFAC-PapersOnLine 59, no. 11 (2025): 246–251.] (https://doi.org/10.1016/j.ifacol.2025.09.556)
+[C. Völlmecke and A. Dönitz, “Making Mechanics Tangible Part of this Work was Funded by Klaus Tschira Foundation,” IFAC-PapersOnLine 59, no. 11 (2025): 246–251.](https://doi.org/10.1016/j.ifacol.2025.09.556)
 
-[C. Völlmecke, A. Dönitz, F. Kurpjuhn, and A. Jacobi, “Serious Games in Mechanics: GAMEchanics—The First Mechanics-Themed Escape Room.” PAMM26, no. 2 (2026): e70126.] (https://doi.org/10.1002/pamm.70126)
+[C. Völlmecke, A. Dönitz, F. Kurpjuhn, and A. Jacobi, “Serious Games in Mechanics: GAMEchanics—The First Mechanics-Themed Escape Room.” PAMM26, no. 2 (2026): e70126.](https://doi.org/10.1002/pamm.70126)
 
 ## License
 

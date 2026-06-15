@@ -1,6 +1,8 @@
 # GAMEchanics-Escape-Room
 GAMEchanics: The Escape Room is centered around mechanics. With this repository, the Escape Room can be recreated. We provide a [detailed guide for setting up the room and the various puzzles (in german)](https://github.com/SVFS-TUBerlin/Project_GAMEchanics/blob/main/Spieleanleitung_Escape_Room_LoRes.pdf).
 
+![physical Escape Room]([physical_Escape_Room.jpeg)
+
 Physical Escape Room: The Escape Room consists of a physical space with multiple puzzles. There will be a list of materials, instructions for setting up the room, and detailed guidance for the different puzzles.
 
 Online Escape Game: The online game can be found at [itch.io](https://gamechanics.itch.io/gamechanics-escaperoom). If the game needs to be customized, the Godot Files are provided [here](https://github.com/SVFS-TUBerlin/Project_GAMEchanics/tree/main/virtueller_Escape_Room_Godotcode).
@@ -8,6 +10,14 @@ Online Escape Game: The online game can be found at [itch.io](https://gamechanic
 Some of the 3D models for the Escaperoom are based on 3D models from individual Thingiverse users:
 * The file [1_rechte_Hand.stl](SVFS-TUBerlin/GAMEchanics-Escape-Room/blob/main/STLs_Station_1/1_rechte_Hand.stl) is based on [Right Hand Rule Teaching Tool](https://www.thingiverse.com/thing:6045083) by thingiverse user [Khaos47](https://www.thingiverse.com/Khaos47)
 * All files from [STLs_Station_5](https://github.com/SVFS-TUBerlin/GAMEchanics-Escape-Room/tree/main/STLs_Station_5) are inspired by the 3D Model [Column Buckling (Euler Buckling)](https://www.thingiverse.com/thing:3804697) by thingiverse user [dhp73](https://www.thingiverse.com/dhp73)
+
+## Publications
+
+Please mention the following publications, when referencing to GAMEchanics.
+
+[C. Völlmecke and A. Dönitz, “Making Mechanics Tangible Part of this Work was Funded by Klaus Tschira Foundation,” IFAC-PapersOnLine 59, no. 11 (2025): 246–251.] (https://doi.org/10.1016/j.ifacol.2025.09.556)
+
+[C. Völlmecke, A. Dönitz, F. Kurpjuhn, and A. Jacobi, “Serious Games in Mechanics: GAMEchanics—The First Mechanics-Themed Escape Room.” PAMM26, no. 2 (2026): e70126.] (https://doi.org/10.1002/pamm.70126)
 
 ## License
 
@@ -24,6 +34,6 @@ This work is licensed under a
 
 **Authors:** Christina Völlmecke and Antonia Dönitz
 
-You may share the content provided mentioning the licence **CC BY-NC 4.0** and the authors.  
+You may share the content provided mentioning the licence **CC BY-NC 4.0**, the authors and the publications.  
 **Commercial use is not permitted.**
 
